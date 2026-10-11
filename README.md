@@ -1,4 +1,4 @@
-# ✈️ Airline Management System (AMS)
+# ✈️ Airline Management or Reservation System (AMS)
 
 ## 📌 Project Title
 **Airline Management System (AMS) - Java Swing Application**
